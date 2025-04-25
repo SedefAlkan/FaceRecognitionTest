@@ -10,6 +10,5 @@ Bu Python projesi, **opencv.fr SDK** kullanarak yüz tanıma, kişi kaydı ve ko
 - Eşleşen kişinin ait olduğu koleksiyonları listeler
 
 ## Gereksinimler
-
 ```bash
 pip install opencv-python python-dotenv
